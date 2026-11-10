@@ -53,6 +53,7 @@ Result-oriented **Data Engineer** with **~2 years of experience** architecting h
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
+| 🛒 **[Olist E-Commerce ELT Pipeline](https://github.com/adhu1155/olist-ecommerce-pipeline)** | `Airflow` `MinIO` `PostgreSQL` `dbt` `Docker Compose` | End-to-end, locally run ELT pipeline for the Brazilian Olist e-commerce dataset, orchestrated with Airflow and structured in Bronze, Silver, and Gold layers, with dbt transformations into a dimensional star schema. |
 | 🛠️ **[YouTube Transcriber & Summarizer](https://github.com/adhu1155/ytsummarizer)** | `Python` `LLM APIs` `LangChain` | Generative AI app extracting YouTube transcripts into structured summaries and contextual explanations. |
 | 🔬 **[Malaria Detection Deep Learning](https://github.com/adhu1155/malaria_detection)** | `Python` `TensorFlow` `Streamlit` | CNN model classifying infected cell images with 95%+ accuracy, deployed with a web UI. |
 | 📊 **[Demand Forecasting System](https://github.com/adhu1155/demand-forecasting)** | `Python` `Jupyter` `Scikit-Learn` | Predictive demand forecasting model analyzing historical retail data for trend prediction. |
