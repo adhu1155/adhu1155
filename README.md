@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Adwaid Raveendran**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adwaid-raveendran/" target="_blank">
+  <a href="https://www.linkedin.com/in/adwaidr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Adwaid_Raveendran-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:adwaid.dhwani@gmail.com">
