@@ -1,9 +1,15 @@
 # 👋 Hi there, I'm **Adwaid Raveendran**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Adwaid_Raveendran-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Email-adwaid.dhwani%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  <img src="https://img.shields.io/badge/GitHub-adhu1155-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/adwaid-raveendran/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adwaid_Raveendran-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adwaid.dhwani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adwaid.dhwani%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://x.com/adwaidr" target="_blank">
+    <img src="https://img.shields.io/badge/X-@adwaidr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </div>
 
 ---
